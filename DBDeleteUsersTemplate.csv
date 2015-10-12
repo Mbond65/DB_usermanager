@@ -1,0 +1,2 @@
+MemberID,TranferFilesTo(MemberID),NotifyAdminOnFileTransferError(MemberID),DeleteLinkedDeviceData(True or false)
+dbmid:AAAm0vUqQ1IsR6EqJc1KBDhL1ZZ4Ff5S5h8,dbmid:AAAtAqRZdJcOU3yizsUsnvL1vOiN4MVKXRo,dbmid:AAAtAqRZdJcOU3yizsUsnvL1vOiN4MVKXRo,TRUE
